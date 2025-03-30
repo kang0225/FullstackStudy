@@ -1,11 +1,13 @@
 # 1주차 스터디 안내
 ---
 
-## 1. Visual Studio Code 설치 및 파일 생성
+## 1. Visual Studio Code 설치 및 파일 생성  
+
 
 
 I. Visual Studio Code 설치
 - [다운로드](https://code.visualstudio.com/download)
+
 
 II. HTML 파일 생성하기
 - "**CTRL + N**"을 통해 파일 생성
@@ -13,14 +15,19 @@ II. HTML 파일 생성하기
 ![html 저장](https://github.com/user-attachments/assets/723197f7-9fc8-4b81-a093-2148ae0a8123)
 
 
+
+
 III. HTML 실행
 - 파일을 저장한 폴더로 이동 후, 파일 클릭
 
----
+---  
 
-## 2. 스터디 내용
 
-### **I. 태그 종류 및 역할 학습**
+## 2. 스터디 내용  
+
+
+### **I. 태그 종류 및 역할 학습**  
+
 
 (일반)
 - title
@@ -44,21 +51,22 @@ III. HTML 실행
 - mark
 
 위의 태그들의 역할에 대해 간단히 공부해주세요.
-(ex. img 태그는 웹 사이트에 이미지를 넣을 수 있고, /img와 같이 닫는 태그는 적을 필요가 없다.)
+(ex. img 태그는 웹 사이트에 이미지를 넣을 수 있고, /img와 같이 닫는 태그는 적을 필요가 없다.)  
 
 
-
-### **II. 태그의 사용법**
+### **II. 태그의 사용법**  
 
 - img : src, alt
 - ol : type
 - a : href, download, target
 
+
+
 1번에서 공부한 태그들 중 img, (ol, ul, li), a 태그의 사용법에 대해 공부해주세요.
 (ex. img 태그는 src="C:\users\..." 형식으로 이미지 파일의 디렉토리를 적어주어야 한다.)
 
 
-### **III. 자기소개 웹 제작**
+### **III. 자기소개 웹 제작**  
 
 - 자신을 소개하는 웹 페이지를 만들어주세요 !
 - 2번에서 공부한 이미지, 리스트, 하이퍼링크는 필수적으로 만들어주세요.
@@ -91,9 +99,10 @@ III. HTML 실행
 
 
 ---
-## 3. 스터디 업로드
+## 3. 스터디 업로드  
 
-I. Repository-레포지토리 생성-폴더 이름 작성
+I. Repository-레포지토리 생성 후 **Add File-Create new File** 버튼을 눌러줍니다.
+![스크린샷 2025-03-31 오전 12 23 13](https://github.com/user-attachments/assets/50ee73bc-441c-4aaf-98b8-ee08fe37f5e8)
 
 II. week-1.md 파일 생성 후, 공부한 내용을 자유롭게 작성합니다.
 (마크다운 형식이기 때문에 일반 텍스트 파일과는 다릅니다. ex. #, **, ```로 디자인 가능)

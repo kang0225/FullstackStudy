@@ -3,6 +3,7 @@
 
 ## 1. Visual Studio Code 설치 및 파일 생성
 
+
 I. Visual Studio Code 설치
 - [다운로드](https://code.visualstudio.com/download)
 
@@ -92,4 +93,18 @@ III. HTML 실행
 ---
 ## 3. 스터디 업로드
 
-I. Repository-레포지토리 생성
+I. Repository-레포지토리 생성-폴더 이름 작성
+
+II. week-1.md 파일 생성 후, 공부한 내용을 자유롭게 작성합니다.
+(마크다운 형식이기 때문에 일반 텍스트 파일과는 다릅니다. ex. #, **, ```로 디자인 가능)
+
+III. **"Commit Changes"** 버튼을 눌러 업로드 합니다.  
+
+![Commit Changes](https://github.com/user-attachments/assets/26116831-c75e-40f6-9944-57f92d68bb5c)
+
+
+IV. 레포지토리 폴더 안에서 **"Add File"-"Upload files"** 버튼을 눌러 자기소개.html 파일 추가 후 업로드 합니다.
+(업로드한 html 파일은 매주 갱신하면서 커밋할 예정입니다.)
+
+
+**! 궁금한 점은 편하게 물어봐주세요!**

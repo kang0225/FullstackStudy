@@ -103,8 +103,10 @@ III. **"Commit Changes"** 버튼을 눌러 업로드 합니다.
 ![Commit Changes](https://github.com/user-attachments/assets/26116831-c75e-40f6-9944-57f92d68bb5c)
 
 
-IV. 레포지토리 폴더 안에서 **"Add File"-"Upload files"** 버튼을 눌러 자기소개.html 파일 추가 후 업로드 합니다.
-(업로드한 html 파일은 매주 갱신하면서 커밋할 예정입니다.)
+IV. 레포지토리 폴더 안에서 **"Add File"-"Upload files"** 버튼을 눌러 html 파일 추가 후 업로드 합니다.
+(업로드한 html 파일은 매주 갱신하면서 커밋할 예정입니다.)  
+
+![Add File](https://github.com/user-attachments/assets/3203e76e-308d-4aed-851a-73be9bd8d722)
 
 
 **! 궁금한 점은 편하게 물어봐주세요!**

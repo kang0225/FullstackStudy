@@ -25,6 +25,9 @@ III. HTML 실행
 
 ## 2. 스터디 내용  
 
+[참고 영상](https://youtu.be/I7vgx9q5gCM?feature=shared)
+(다른 영상이나 AI를 활용해서 공부하셔도 좋습니다.)  
+
 
 ### **I. 태그 종류 및 역할 학습**  
 
@@ -118,4 +121,6 @@ IV. 레포지토리 폴더 안에서 **"Add File"-"Upload files"** 버튼을 눌
 ![Add File](https://github.com/user-attachments/assets/3203e76e-308d-4aed-851a-73be9bd8d722)
 
 
+
+(원활한 스터디 모임을 위해 4/6 일요일까지 업로드 부탁드립니다 :D)
 **! 궁금한 점은 편하게 물어봐주세요!**
